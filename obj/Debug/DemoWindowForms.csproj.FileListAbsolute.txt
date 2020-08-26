@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\DemoWindowForms\bin\Debug\DemoWindowForms.exe.config
+C:\Users\Asus\source\repos\DemoWindowForms\bin\Debug\DemoWindowForms.exe
+C:\Users\Asus\source\repos\DemoWindowForms\bin\Debug\DemoWindowForms.pdb
+C:\Users\Asus\source\repos\DemoWindowForms\obj\Debug\DemoWindowForms.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\DemoWindowForms\obj\Debug\DemoWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DemoWindowForms\obj\Debug\DemoWindowForms.exe
+C:\Users\Asus\source\repos\DemoWindowForms\obj\Debug\DemoWindowForms.pdb
